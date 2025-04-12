@@ -9,8 +9,13 @@ Whether I'm writing Python, suffering through Excel/VBA, or working with Git/Git
 ## 🗂️ Current Topics
 
 - `need_to_know_python.md` → Full Python scripting cheat sheet
-- `excel_vba_cheat_sheet.md` → Upcoming guide for surviving the spreadsheet dimension
-- More `.md` files to come: GitHub, JupyterLab, plotting, data cleaning, and more
+- `excel_vba_cheat_sheet.md` → Survival guide for spreadsheet hell
+- `github_cheat_sheet.md` → Git + GitHub workflows and commands
+- `jupyter_notebook_cheat_sheet.md` → Notebook features and magics
+- `jupyter_lab_cheat_sheet.md` → Tabs, layout, terminals, environments
+- `anaconda_cheat_sheet.md` → Managing environments and packages with Conda
+- `mac_terminal_cheat_sheet.md` → Bash/Zsh navigation and file management
+- `powershell_cheat_sheet.md` → PowerShell commands for Windows control
 
 ---
 
